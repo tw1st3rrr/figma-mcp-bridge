@@ -16,7 +16,7 @@ Claude Code ⇄ server/index.js (MCP, stdio) ⇄ server/bridge.js (WebSocket, lo
 
 1. Клонировать репозиторий и поставить зависимости:
    ```
-   git clone <адрес репозитория> figma-mcp-bridge
+   git clone https://github.com/tw1st3rrr/figma-mcp-bridge.git
    cd figma-mcp-bridge
    npm install
    ```
